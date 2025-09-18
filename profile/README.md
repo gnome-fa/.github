@@ -1,6 +1,12 @@
-[fa](./README.fa.md) | en
+fa | [en](./README.fa.md)
 
-# What is GNOME Fa? 
+# گنوم فارسی
+گنوم فارسی، جامعهٔ کاربران فارسی‌زبان گنوم است. هدف ما تشویق کاربران فارسی‌زبان به تجربه و لذت بردن از محیط گنوم، و آسان‌تر کردن استفاده از آن از طریق ترجمه، پشتیبانی و محتوای فارسی است. همچنین از همهٔ علاقه‌مندان دعوت می‌کنیم تا در توسعه و ترجمه نرم‌افزارهای گنوم همراه ما باشند و با کمک به رشد جامعه، جامعه کاربران فارسی‌زبان گنوم را عضوی مهم در جامعه‌ جهانی نرم‌افزارآزاد، لینوکس و گنوم بگردانند.
 
-Gnome FA is the Persian (Farsi) community of GNOME. Our mission is to encourage Persian-speaking users to experience and enjoy GNOME, while making it easier to use through translation, support, and local resources. We also invite and help contributors to join us in developing and translating software for GNOME, helping the community grow, and empowering Persian speakers to be part of the global open-source movement. 
+- [وبگاه](https://fa.gnome.org)
+- [کانال تلگرام](https://gnome_fa.t.me)
+- [گروه ماتریکس](https://matrix.to/#/%23gnome-fa:gnome.org)
 
+  پیوند های مهم:
+- [وبگاه تیم ترجمه گنوم فارسی](https://l10n.gnome.org/teams/fa/)
+- [راهنمای مشارکت در گنوم](https://fa.gnome.org/contribute/)
